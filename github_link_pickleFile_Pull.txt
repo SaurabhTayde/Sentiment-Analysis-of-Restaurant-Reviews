@@ -1,0 +1,7 @@
+Link of Github Repo:
+https://github.com/SaurabhTayde/ML-Model-Deployment-Using-GCP
+
+Link of pickle file to upload on GCP:
+https://github.com/SaurabhTayde/ML-Model-Deployment-Using-GCP/raw/master/classifier.pickle
+
+https://github.com/SaurabhTayde/Sentiment-Analysis-of-Restaurant-Reviews/raw/master/af94357d50874a76eb5981538338a6317cd02c1f/Restaurant_Reviews.tsv.txt
